@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.hei{
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(104, 55, 55);
+    border-radius: 20px;
+    width: auto;
+    margin-top: 20px;
+}
